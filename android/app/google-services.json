@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639047425357",
+    "project_id": "flutter-caht-app-541fe",
+    "storage_bucket": "flutter-caht-app-541fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639047425357:android:25ee668c99e99963eeeb04",
+        "android_client_info": {
+          "package_name": "com.example.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIwN4bsHftQAo7j0a8A7cb0iy32ux3wbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
